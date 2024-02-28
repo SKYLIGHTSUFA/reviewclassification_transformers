@@ -1,0 +1,8 @@
+transformers
+sentencepiece
+pandas
+seaborn
+numpy
+tqdm
+pandarallel
+matplotlib
